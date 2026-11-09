@@ -94,7 +94,3 @@ MedicationQA-Chatbot/
 ├── MedicationQA_Final.ipynb
 └── README.md
 ```
-
-## Disclaimer
-
-This project was developed for educational and research purposes only. It is not a medical diagnosis or treatment tool. The generated answers may be inaccurate or incomplete. Always consult a qualified healthcare professional for medical advice.
